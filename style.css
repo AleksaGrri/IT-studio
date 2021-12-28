@@ -198,3 +198,57 @@ h1{
 .our-service .btn-block{
     text-align: center;
 }
+
+.dev-standars{
+    background-color: #F6F6F8;
+}
+
+.about-dev-standarts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 0 90px;
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.about-dev-standarts h2{
+    text-align: left;
+    width: 60%;
+}
+
+.about-dev-standarts p{
+    font-size: 16px;
+    line-height: 25px;
+    color: #999999;
+    width: 60%;
+    font-family: "Montserrat-regular";
+}
+
+.project-div-st{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 0 70px 0;
+}
+
+.img-our-project{
+    display: flex;
+    flex-direction: row;
+}
+
+.img-our-project div{
+    font-size: 36px;
+    margin: 0;
+}
+
+.img-our-project img{
+    width: 30px;
+    height: 30px;
+    margin: 7px 20px 0 0;
+}
+
+.dsckr-our-project p{
+    font-size: 16px;
+    line-height: 25px;
+    color: #999999;
+    font-family: "Montserrat-regular";
+}
